@@ -1,0 +1,25 @@
+{ 
+  type: 'FeatureCollection',
+  features: [{
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [153.0216909, -27.4693454]
+    },
+    properties: {
+      title: 'Mapbox',
+      description: 'Clock Tower Tour - '
+    }
+  },
+  {
+    type: 'Feature',
+    geometry: {
+      type: 'Point',
+      coordinates: [-122.414, 37.776]
+    },
+    properties: {
+      title: 'Mapbox',
+      description: 'San Francisco, California'
+    }
+  }]
+}
